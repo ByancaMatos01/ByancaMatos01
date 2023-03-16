@@ -22,6 +22,7 @@ Frontend
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="50" />
  <img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"   height="50"/> 
 </div>
+  
 </td><td valign="top" width="33%">
  DevOps  
 <div align="center">  
