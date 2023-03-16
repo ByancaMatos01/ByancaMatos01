@@ -5,7 +5,9 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&layout=compact&langs_count=6&theme=tokyonight"/>
     
-<table><tr><td valign="top" width="33%">
+<table>
+ <tr>
+ <td valign="top" width="33%">
 ### Frontend  
 <div align="center">    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -15,7 +17,8 @@
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap5" height="50"/>
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+ <td valign="top" width="33%">
 
 ### Backend  
 <div align="center">    
@@ -24,14 +27,18 @@
  <img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"   height="50"/>
  
 </div>
-</td><td valign="top" width="33%">
+</td>
+  
+<td valign="top" width="33%">
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MSQL" height="50"/>
 </div>
-</td></tr></table>  
+</td>
+ </tr>
+ </table>  
 <br/>  
 
  <br>   
