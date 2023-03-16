@@ -4,7 +4,7 @@
    <a href="https://github.com/ByancaMatos01">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&layout=compact&langs_count=6&theme=tokyonight"/>
-    
+<div>    
 Frontend  
 <div align="center">    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -12,7 +12,8 @@ Frontend
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS-code" height="50" />
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap5" height="50"/>
-</div></td>
+</div>
+    
  <div>
  Backend  
 <div align="center">    
