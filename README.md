@@ -5,7 +5,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&layout=compact&langs_count=6&theme=tokyonight"/>
     
-<table><tr><td valign="top" width="33%">
 Frontend  
 <div align="center">    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
