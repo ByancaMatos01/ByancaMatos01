@@ -6,7 +6,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&layout=compact&langs_count=6&theme=tokyonight"/>
     
 <table><tr><td valign="top" width="33%">
-
 ### Frontend  
 <div align="center">    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -15,7 +14,6 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/>
  <img style="margin: 10px"alt="VS-code" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img style="margin: 10px"alt="bootstrap5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
- 
 </div>
 
 </td><td valign="top" width="33%">
@@ -28,23 +26,15 @@
  
 </div>
 </td><td valign="top" width="33%">
-
-
-
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
  <img style="margin: 10px" alt="MSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
-
 </td></tr></table>  
-
 <br/>  
     
- 
- <br>
- 
   ### Para entrar em contato redes sociais abaixo !
  
 <div> 
