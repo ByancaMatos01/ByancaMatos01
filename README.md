@@ -24,7 +24,7 @@
 <div align="center">    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />   
 <img style="margin: 10px" alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
- <img style="margin: 10px" alt="C"   eight="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+ <img style="margin: 10px" alt="C"   height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  
 </div>
 </td><td valign="top" width="33%">
