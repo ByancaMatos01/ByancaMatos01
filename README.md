@@ -43,8 +43,8 @@ object **Byanca Matos** {
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byanca-matos-29204b1bb/)](https://www.linkedin.com/in/byanca-matos-29204b1bb/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byancathmatos@gmail.com)](mailto:byancathmatos@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-byancaMatos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byanca-matos-29204b1bb/)](https://www.linkedin.com/in/byanca-matos-29204b1bb/)
+[![Gmail Badge](https://img.shields.io/badge/-byancathmatos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byancathmatos@gmail.com)](mailto:byancathmatos@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/ByancaMatos01)
 
   ![Snake animation](https://github.com/ByancaMatos01/ByancaMatos01/blob/output/github-contribution-grid-snake.svg)
