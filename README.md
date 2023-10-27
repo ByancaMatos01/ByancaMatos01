@@ -4,7 +4,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS ** no <a href="https://www.fateczl.edu.br/inicio">FATRC ZL</a>.
+- 🎓 Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS ** no <a href="https://www.fateczl.edu.br/inicio">FATEC-ZL</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **JAVA,SQL, JAVASCRIPT, HTML, CSS3.
 
 <h3>Minhas Skills</h3>
@@ -15,11 +15,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+<div>
 **DevOps**
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
+</div>
 
 **Ferramentas de desenvolvimento**
 
