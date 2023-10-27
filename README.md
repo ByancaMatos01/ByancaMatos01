@@ -7,13 +7,17 @@
 - 🎓 Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS ** no <a href="https://www.fateczl.edu.br/inicio">FATEC-ZL</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **JAVA,SQL, JAVASCRIPT, HTML, CSS3.
 
-  ```kotlin
-object BYANCA MATOS {
- val name = "Byanca Matos"
- val acknowledgements = "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS"
+ ## Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object **SEU NOME** {
+ val name = "SEU NOME COMPLETO"
+ val acknowledgements = "ÁREA DE CONHECIMENTO"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "COBOL", "JavaScript", "HTML5", "CSS3", "SQL", "BOOTSTRAP 5")
+ val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React")
 
 }
 ```
