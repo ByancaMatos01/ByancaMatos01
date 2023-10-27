@@ -39,6 +39,11 @@ object **Byanca Matos** {
 <br/>
 <a href="https://github.com/ByancaMatos01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&theme=dracula&show_icons=true" />
+  <div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ByancaMatos01&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-ByancaMatos01.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+ </div>
+
 </a>
 
 <h3>Onde me encontrar</h3>
