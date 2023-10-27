@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Aprendendo mais sobre **JAVA,SQL, JAVASCRIPT, HTML, CSS3.
 
   ```kotlin
-object **SEU NOME** {
+object BYANCA MATOS {
  val name = "Byanca Matos"
  val acknowledgements = "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS"
 
@@ -16,6 +16,7 @@ object **SEU NOME** {
  val languages = listOf("Java", "COBOL", "JavaScript", "HTML5", "CSS3", "SQL", "BOOTSTRAP 5")
 
 }
+```
 
 <h3>Minhas Skills</h3>
 
