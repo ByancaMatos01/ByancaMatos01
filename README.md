@@ -23,6 +23,7 @@ object **Byanca Matos** {
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+                                                                                 <img align="right" width="300" src="https://i.pinimg.com/564x/82/53/f4/8253f46af6e9eaa5699b8bf1387653e9.jpg" />
 
 **DevOps**
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -40,7 +41,6 @@ object **Byanca Matos** {
 <a href="https://github.com/ByancaMatos01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&theme=dracula&show_icons=true" />
   <div  align="center" style="margin-bottom:100px">
-   <img align="right" width="300" src="https://i.pinimg.com/564x/82/53/f4/8253f46af6e9eaa5699b8bf1387653e9.jpg" />
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ByancaMatos01&theme=radical&mode=weekly" />
 <div  align="center" style="margin-bottom:100px">
  </div>
