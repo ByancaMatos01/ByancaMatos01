@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Byanca Matos  😁  <img align="right" width="300" src="https://i.pinimg.com/564x/82/53/f4/8253f46af6e9eaa5699b8bf1387653e9.jpg" />
+## Bem-vindo(a) ao perfil da Byanca Matos  😁  
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
  ## Mais sobre mim
 
@@ -43,7 +43,7 @@ object **Byanca Matos** {
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ByancaMatos01&theme=radical&mode=weekly" />
 <div  align="center" style="margin-bottom:100px">
  </div>
-
+<img align="right" width="300" src="https://i.pinimg.com/564x/82/53/f4/8253f46af6e9eaa5699b8bf1387653e9.jpg" />
  </div>
 
 </a>
