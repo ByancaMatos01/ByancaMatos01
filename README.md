@@ -42,7 +42,7 @@ object **Byanca Matos** {
 <a href="https://github.com/ByancaMatos01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&theme=dracula&show_icons=true" />
   <div  align="right" style="margin-bottom:100px">
- <img height="180em" src="https://38.media.tumblr.com/f5e6fa5b5ebb56a6438b54d15d519367/tumblr_nm92ujDXeS1ru4t0lo1_500.gif"/>  
+ <img height="80em" src="https://38.media.tumblr.com/f5e6fa5b5ebb56a6438b54d15d519367/tumblr_nm92ujDXeS1ru4t0lo1_500.gif"/>  
   <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ByancaMatos01&theme=radical&mode=weekly" />
 <div  align="center" style="margin-bottom:100px">
