@@ -12,12 +12,12 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+object **Byanca Matos** {
+ val name = "Byanca Matos"
+ val acknowledgements = "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React")
+ val languages = listOf("Java", "COBOL", "JavaScript", "PHP", "SQL", "HTML5", "CSS3")
 
 }
 ```
@@ -44,7 +44,7 @@ object **SEU NOME** {
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 <br/>
-<a href="https://github.com/iuricode">
+<a href="https://github.com/ByancaMatos01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
