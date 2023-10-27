@@ -7,6 +7,16 @@
 - 🎓 Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS ** no <a href="https://www.fateczl.edu.br/inicio">FATEC-ZL</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **JAVA,SQL, JAVASCRIPT, HTML, CSS3.
 
+  ```kotlin
+object **SEU NOME** {
+ val name = "Byanca Matos"
+ val acknowledgements = "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS"
+
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Java", "COBOL", "JavaScript", "HTML5", "CSS3", "SQL", "BOOTSTRAP 5")
+
+}
+
 <h3>Minhas Skills</h3>
 
 **Aplicações e dados**
