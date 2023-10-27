@@ -1,12 +1,5 @@
 ## Bem-vindo(a) ao perfil da Byanca Matos  😁
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
-<h3>Sobre mim</h3>
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS ** no <a href="https://www.fateczl.edu.br/inicio">FATEC-ZL</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **JAVA,SQL, JAVASCRIPT, HTML, CSS3.
-
  ## Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
