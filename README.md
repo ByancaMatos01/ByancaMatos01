@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
  ## Mais sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMeriyemelhajoui&psig=AOvVaw0wqp8sCVjtGAYbYbIlLyg5&ust=1698462561400000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiftJ6glYIDFQAAAAAdAAAAABAs)" />
 
 ```kotlin
 object **Byanca Matos** {
