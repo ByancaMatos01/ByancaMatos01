@@ -38,7 +38,7 @@ object **Byanca Matos** {
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 <br/>
 <a href="https://github.com/ByancaMatos01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos&theme=dracula&show_icons=true" />
 </a>
 
 <h3>Onde me encontrar</h3>
