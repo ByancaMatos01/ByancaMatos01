@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Byanca Matos  😁
+## Bem-vindo(a) ao perfil da Byanca Matos  😁  <img align="right" width="300" src="https://i.pinimg.com/564x/82/53/f4/8253f46af6e9eaa5699b8bf1387653e9.jpg" />
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
  ## Mais sobre mim
 
