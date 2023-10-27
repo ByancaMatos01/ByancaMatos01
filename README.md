@@ -10,7 +10,8 @@ object **Byanca Matos** {
  val acknowledgements = "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "COBOL", "JavaScript", "PHP", "SQL", "HTML5", "CSS3")
+ val languages = listOf("Java", "COBOL", "JavaScript",
+                         "PHP", "SQL", "HTML5", "CSS3")
 
 }
 ```
