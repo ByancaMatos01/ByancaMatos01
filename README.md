@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil da Byanca Matos  😁  
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+
  ## Mais sobre mim
 
 <img align="right" width="300" src="https://camo.githubusercontent.com/7aa780f97d51af2b67ff9ca2afa89ef67907c7b21abe9c7f8fb63fa707cf629a/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632"/>
@@ -51,7 +51,6 @@ object **Byanca Matos** {
 
 [![Linkedin](https://img.shields.io/badge/-byancaMatos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byanca-matos-29204b1bb/)](https://www.linkedin.com/in/byanca-matos-29204b1bb/)
 [![Gmail Badge](https://img.shields.io/badge/-byancathmatos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byancathmatos@gmail.com)](mailto:byancathmatos@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/ByancaMatos01)
 
 
 <div align=center>
