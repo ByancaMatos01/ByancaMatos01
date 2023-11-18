@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil da Byanca Matos  😁  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#bd93f9&height=120&section=header"/>
 
  ## Mais sobre mim
 
