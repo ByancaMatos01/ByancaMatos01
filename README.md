@@ -46,6 +46,9 @@ object **Byanca Matos** {
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ByancaMatos01&theme=radical&mode=weekly" />
 <div  align="center" style="margin-bottom:100px">
  </div>
+   <div>
+    (https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&theme=radical&mode=weekly)
+   </div>
 </a>
 
 <h3>Onde me encontrar</h3>
