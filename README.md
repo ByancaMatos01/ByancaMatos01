@@ -46,7 +46,6 @@ object **Byanca Matos** {
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ByancaMatos01&theme=radical&mode=weekly" />
 <div  align="center" style="margin-bottom:100px">
  </div>
-   (https://github.com/ashutosh00710/github-readme-activity-graph)
 </a>
 
 <h3>Onde me encontrar</h3>
