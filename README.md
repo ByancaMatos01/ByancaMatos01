@@ -47,7 +47,7 @@ object **Byanca Matos** {
 <div  align="center" style="margin-bottom:100px">
  </div>
    <div>
-    (https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&theme=radical&mode=weekly)
+   ![Languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&theme=compact)
    </div>
 </a>
 
