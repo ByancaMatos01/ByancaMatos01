@@ -3,7 +3,7 @@
 
  ## Mais sobre mim
 
-<img align="right" width="300" src=".github/workflows/code.gif" />
+<img align="right" width="300" src=".github/workflows/code2.gif" />
 
 ```kotlin
 object **Byanca Matos** {
