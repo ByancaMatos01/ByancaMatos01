@@ -65,4 +65,4 @@ object **Byanca Matos** {
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/ByancaMatos01/count.svg" />  
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c4a63&height=120&section=header"/>
+<img width=100% <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c4a63&height=120&section=footer"/>
