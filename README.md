@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Byanca Matos  😁  
+## Bem-vindo(a) ao perfil da Byanca Matos  😁  ![Watches](https://img.shields.io/github/watchers/ByancaMatos01/ByancaMatos01.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c4a63&height=120&section=header"/>
 
  ## Mais sobre mim
