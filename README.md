@@ -13,7 +13,7 @@ object **Byanca Matos** {
  val languages = listOf("Java", "JavaScript",
                          "PHP", "SQL", "HTML5", "CSS3")
 
-val primarySkillset = "ESTOU ESTUDAANDO AGORA"
+val primarySkillset = "ESTOU ESTUDANDO AGORA"
  val languages = listOf("Javafx", "COBOL","UX/UI", "LINUX")
 
 }
