@@ -15,7 +15,7 @@ object **Byanca Matos** {
                          "PHP", "SQL", "HTML5", "CSS3")
 
 val primarySkillset = "ESTOU ESTUDANDO AGORA"
- val languages = listOf("Javafx", "COBOL","UX/UI", "LINUX")
+ val languages = listOf("Javafx","UX/UI", "LINUX", "Phyton")
 
 }
 ```
@@ -23,9 +23,10 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
   <img src="https://github-profile-trophy.vercel.app/?username=ByancaMatos01&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<h3>Minhas Skills</h3>
+<h3> Minhas Skills: </h3>
 
 **Aplicações e dados**
+
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -33,6 +34,7 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
                                                                                 
 **DevOps**
+
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -50,7 +52,7 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
 <div  align="center" style="margin-bottom:100px">
 </div>
 </a>
-<h3>Onde me encontrar </h3>
+<h3> Onde me encontrar: </h3>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byanca-matos-29204b1bb/)](https://www.linkedin.com/in/byanca-matos-29204b1bb/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byancathmatos@gmail.com)](mailto:byancathmatos@gmail.com)
