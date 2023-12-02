@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Byanca Matos <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+## Bem-vindo(a) ao perfil da Byanca Matos 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c4a63&height=120&section=header"/>
  
  ## Mais sobre mim
