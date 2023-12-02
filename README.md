@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil da Byanca Matos <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c4a63&height=120&section=header"/>
  
- ## Mais sobre mim
+ ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Mais sobre mim
  
 <img align="right" width="300" src=".github/workflows/code2.gif" />
 
