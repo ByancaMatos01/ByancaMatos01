@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Byanca Matos 
+## Bem-vindo(a) ao perfil da Byanca Matos <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c4a63&height=120&section=header"/>
  
  ## Mais sobre mim
