@@ -50,6 +50,7 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
 </div>
 </a>
 <h3>Onde me encontrar </h3>
+
 [![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byanca-matos-29204b1bb/)](https://www.linkedin.com/in/byanca-matos-29204b1bb/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byancathmatos@gmail.com)](mailto:byancathmatos@gmail.com)
 
