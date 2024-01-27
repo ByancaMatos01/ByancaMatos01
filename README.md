@@ -44,7 +44,7 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 <br/>
 <a href="https://github.com/ByancaMatos01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&theme=dracula&show_icons=true"/> ![Languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&theme=dracula)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&theme=dracula&show_icons=true"/> ![Languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&theme=dracula) <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ByancaMatos01&theme=dracula" />
 <div  align="center" style="margin-bottom:100px">
 </div>
 </a>
