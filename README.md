@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil da Byanca Matos <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c4a63&height=120&section=header"/>
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9966FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,;Be+Welcome!+:%29)
  
  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Mais sobre mim
  
