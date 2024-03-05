@@ -15,7 +15,7 @@ object **Byanca Matos** {
                           "SQL", "HTML5", "CSS3")
 
 val primarySkillset = "ESTOU ESTUDANDO AGORA"
- val languages = listOf("Javafx", "Python","UX/UI", "LINUX", "Javascript")
+ val languages = listOf("Java web", "Redes e computadores", "Teste de Software")
 
 }
 ```
