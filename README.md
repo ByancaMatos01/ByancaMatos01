@@ -20,7 +20,6 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
 
 }
 ```
-![snake animation](https://github.com/ByancaMatos01/ByancaMatos01/blob/main/github-contribution-grid-snake2.svg)
 
 <h3>Onde me encontrar </h3>
 
