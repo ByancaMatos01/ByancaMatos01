@@ -27,7 +27,7 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
 </picture>  
 
 <a href="https://github.com/ByancaMatos01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&theme=dracula&show_icons=true" /> ![Languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&theme=dracula)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&theme=dracula&show_icons=true" /> 
   <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ByancaMatos01&theme=dracula" />
 <div  align="center" style="margin-bottom:100px">
