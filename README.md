@@ -26,6 +26,15 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/github-contribution-grid-snake.svg">
 </picture>  
 
+<a href="https://github.com/ByancaMatos01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&theme=dracula&show_icons=true" /> ![Languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&theme=dracula)
+  <div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ByancaMatos01&theme=dracula" />
+<div  align="center" style="margin-bottom:100px">
+</div>
+
+</a>
+
 <h3>Onde me encontrar </h3>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byanca-matos-29204b1bb/)](https://www.linkedin.com/in/byanca-matos-29204b1bb/)
