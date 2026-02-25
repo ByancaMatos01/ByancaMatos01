@@ -30,10 +30,6 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
   <a href="https://github.com/ByancaMatos01">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&theme=dracula&show_icons=true"/>
   </a>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&theme=dracula"/>
-  
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=ByancaMatos01&theme=dracula"/>
 </div>
 
 
