@@ -21,9 +21,6 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
 }
 ```
 
- ## 🐍 Minhas Contribuições
-![snake animation](https://github.com/ByancaMatos01/ByancaMatos01/blob/main/github-contribution-grid-snake2.svg)  
-
 <h3>Onde me encontrar </h3>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byanca-matos-29204b1bb/)](https://www.linkedin.com/in/byanca-matos-29204b1bb/)
