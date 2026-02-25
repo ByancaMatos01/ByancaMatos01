@@ -5,7 +5,7 @@
  
  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Mais sobre mim
  
-<img align="right" width="300" src=".github/code2.gif" />
+<img align="right" width="300" src=".github/code2.gif"/>
 
 ```kotlin
 object **Byanca Matos** {
