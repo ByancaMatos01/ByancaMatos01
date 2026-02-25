@@ -26,9 +26,9 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/github-contribution-grid-snake.svg">
 </picture>  
 
-<a href="https://github.com/ByancaMatos01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&theme=dracula&show_icons=true"/> 
-</a>
+
+
+
 
 <h3>Onde me encontrar </h3>
 
