@@ -20,7 +20,12 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
 
 }
 ```
-<img src="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/github-contribution-grid-snake.svg">
+</picture>  
+
 <h3>Onde me encontrar </h3>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byanca-matos-29204b1bb/)](https://www.linkedin.com/in/byanca-matos-29204b1bb/)
