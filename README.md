@@ -20,9 +20,13 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
 
 }
 ```
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ByancaMatos01&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
-</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/github-contribution-grid-snake.svg">
+</picture>  
+
 <h3>Onde me encontrar </h3>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byanca-matos-29204b1bb/)](https://www.linkedin.com/in/byanca-matos-29204b1bb/)
