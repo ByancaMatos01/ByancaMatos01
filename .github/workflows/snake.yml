@@ -2,21 +2,25 @@ name: Generate snake game
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     name: Generate Snake
     runs-on: ubuntu-latest
+
     steps:
+      - uses: actions/checkout@v3
+
       - uses: Sutil/snk@master
         with:
           github_user_name: ByancaMatos01
-          svg_out_path: dist/github-contribution-grid-snake2.svg
-          snake_color: 'purple'
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          snake_color: purple
 
-      - uses: crazy-max/ghaction-github-pages@v2
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
