@@ -21,11 +21,8 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
 }
 ```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/github-contribution-grid-snake.svg">
-</picture>  
+ ## 🐍 Minhas Contribuições
+![snake animation](https://github.com/ByancaMatos01/ByancaMatos01/blob/output/github-contribution-grid-snake2.svg)  
 
 <h3>Onde me encontrar </h3>
 
