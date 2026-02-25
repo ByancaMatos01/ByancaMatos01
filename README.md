@@ -22,7 +22,7 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
 ```
 
  ## 🐍 Minhas Contribuições
-![snake animation](https://github.com/ByancaMatos01/ByancaMatos01/blob/output/github-contribution-grid-snake2.svg)  
+![snake animation](https://github.com/ByancaMatos01/ByancaMatos01/blob/main/github-contribution-grid-snake2.svg)  
 
 <h3>Onde me encontrar </h3>
 
