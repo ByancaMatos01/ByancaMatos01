@@ -60,11 +60,8 @@ object ByancaMatos {
 ## 🌐 Onde me encontrar
 
 <div align="center">
-<img src="https://img.shields.io/badge/LinkedIn-Byanca%20Matos-8c4a63?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/Gmail-byancathmatos%40gmail.com-8c4a63?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+[![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byanca-matos-29204b1bb/)](https://www.linkedin.com/in/byanca-matos-29204b1bb/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byancathmatos@gmail.com)](mailto:byancathmatos@gmail.com)
 </div>
 
 ---
