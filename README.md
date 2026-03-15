@@ -26,7 +26,7 @@ object ByancaMatos {
     )
 }
 ```
-### 🤖 Linguagens e Tecnologias que estou aprendendo 🚀
+### 🤖🚀
 
 ## 💻 Linguagens
 
