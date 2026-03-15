@@ -1,59 +1,81 @@
-## Bem-vindo(a) ao perfil da Byanca Matos <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c4a63&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8c4a63&size=35&center=true&vCenter=true&width=1000&lines=HELLO,;FRONT-END+💻;SUPORTE+🛠;BACK-END+JAVA+☕)
- 
- ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Mais sobre mim
- 
+# Bem-vindo(a) ao perfil da Byanca Matos
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8c4a63&size=35&center=true&vCenter=true&width=1000&lines=HELLO;FRONT-END+💻;SUPORTE+🛠;BACK-END+JAVA+☕)
+
+---
+
+## 💜 Mais sobre mim
+
 <img align="right" width="300" src=".github/workflows/code2.gif" />
 
 ```kotlin
-object **Byanca Matos** {
- val name = "Byanca Matos"
+object ByancaMatos {
 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "JavaScript",
-                          "SQL", "HTML5", "CSS3")
+    val name = "Byanca Matos"
 
-val primarySkillset = "ESTOU ESTUDANDO AGORA"
- val languages = listOf("POWER BI", "PYTHON", "SQL")
+    val skills = listOf(
+        "Java",
+        "JavaScript",
+        "SQL",
+        "HTML5",
+        "CSS3"
+    )
 
+    val currentlyLearning = listOf(
+        "Power BI",
+        "Python",
+        "SQL"
+    )
 }
 ```
+
+---
+
+## 🐍 Contribuições
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ByancaMatos01/ByancaMatos01/output/github-contribution-grid-snake.svg">
-</picture>  
+</picture>
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/ByancaMatos01">
-  <img width="55%" 
-       src="https://streak-stats.demolab.com?user=ByancaMatos01&theme=dracula"/>
-  </a>
+
+<img width="55%" src="https://streak-stats.demolab.com?user=ByancaMatos01&theme=dracula"/>
+
 </div>
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="center">
 
-</p>
-<div>
- <h3>Onde me encontrar </h3>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"/>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/byanca-matos-29204b1bb/)](https://www.linkedin.com/in/byanca-matos-29204b1bb/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byancathmatos@gmail.com)](mailto:byancathmatos@gmail.com)
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+
 </div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/byanca-matos-29204b1bb/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Byanca%20Matos-8c4a63?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:byancathmatos@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-byancathmatos%40gmail.com-8c4a63?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c4a63&height=120&section=footer"/>
