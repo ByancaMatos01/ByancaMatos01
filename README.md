@@ -32,8 +32,23 @@ val primarySkillset = "ESTOU ESTUDANDO AGORA"
        src="https://streak-stats.demolab.com?user=ByancaMatos01&theme=dracula"/>
   </a>
 </div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ByancaMatos01&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+  />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMatos01&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
+</p>
 
 <h3>Onde me encontrar </h3>
 
