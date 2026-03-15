@@ -61,7 +61,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-orig
 
 ## 🗄 Banco de Dados
 
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;"
+<img align="left" alt="SQL Server" title="SQL Server" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+
+<img align="left" alt="SQL" title="MYSQL" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
 <img align="left" alt="Firebase" title="Firebase" width="30px" style="padding-right:10px;"
