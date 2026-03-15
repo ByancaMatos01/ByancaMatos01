@@ -55,6 +55,12 @@ object ByancaMatos {
 
 </div>
 
+<div align="center">
+    
+<img src="https://github-profile-trophy.vercel.app/?username=ByancaMatos01&theme=dracula&row=2&no-bg=true&column=3&margin-w=200&margin-h=200" />
+
+</div>
+
 ---
 
 ## 🌐 Onde me encontrar
