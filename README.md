@@ -118,6 +118,24 @@ object ByancaMatos {
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 />
 
+<img
+    align="left"
+    alt="Firebase"
+    title="Firebase"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg"
+/>
+
+<img
+    align="left"
+    alt="ERP"
+    title="ERP"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sap/sap-original.svg"
+/>
+
 <br><br>
 ---
 
