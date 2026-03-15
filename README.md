@@ -66,7 +66,7 @@ object ByancaMatos {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/byanca-matos-29204b1bb/" target="_blank">
+<a href="https://www.linkedin.com/in/byanca-matos-" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Byanca%20Matos-8c4a63?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
