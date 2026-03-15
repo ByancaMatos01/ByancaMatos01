@@ -6,9 +6,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8c4a63&size=35&center=true&vCenter=true&width=1000&lines=HELLO;FRONT-END+💻;SUPORTE+🛠;BACK-END+JAVA+☕)
 
 ---
-
-## 💜 Mais sobre mim
-
 <img align="right" width="300" src=".github/workflows/code2.gif" />
 
 ```kotlin
@@ -65,12 +62,8 @@ object ByancaMatos {
 ## 🌐 Onde me encontrar
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/byanca-matos-" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Byanca%20Matos-8c4a63?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:byancathmatos@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-byancathmatos%40gmail.com-8c4a63?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
